@@ -1,0 +1,37 @@
+.pai{
+    width: 500px;
+    height: 500px;
+    background-color: #FF8C00;
+}
+
+.filho{
+    width: 50%; 
+    height: 50%;
+    background-color: #2bff4b;
+
+}
+
+.filhoB{
+    width: 250px; 
+    height: 25px;
+    background-color: #FF0000;
+
+}
+.frase{
+    font-size: 25px;
+    font-family: monospace; 
+    font-weight: bold;
+    color: #ffffff;
+}
+.itemD{
+    width: 50%; 
+    height: 50vh;
+     background-color:rgb(50, 181, 204);
+ 
+}
+.itemE{
+    width: 75vw; 
+    height: 50%;
+    background-color: rgb(226, 19, 19);
+ 
+}
